@@ -10,5 +10,5 @@ ArtCLIP, tailored specifically for particular painting styles, is an artistic as
 
 ## Files
 
-- `APDDv2.csv`: This file contains annotations for the APDDv2 dataset, including artistic categories, total aesthetic scores, aesthetic attribute scores and language comments for 10,,023 images.
+- `APDDv2.csv`: This file contains annotations for the APDDv2 dataset, including artistic categories, total aesthetic scores, aesthetic attribute scores and language comments for 10,023 images.
 - `filesource.csv`: This file records the source URLs for 1892 images in the APDD dataset. The remaining images are sourced from Wikiart (https://www.wikiart.org/) and student painting assignments.
