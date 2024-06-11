@@ -4,7 +4,7 @@ This is an open-source aesthetics of paintings and drawings dataset called APDD,
 
 ## Introduction
 
-The Aesthetics Paintings and Drawings Dataset (APDDv2) stands as the pioneering comprehensive painting dataset, encompassing 24 distinct artistic categories and 10 aesthetic attributes. Comprising 10,023 painting images, 85,191 image annotations, and 6,249 linguistic comments, APDDv2 addresses the scarcity of datasets in the realm of aesthetic evaluation of artistic images. Its primary aim is to furnish researchers and practitioners with high-quality painting data, thereby fostering the development and application of automatic aesthetic evaluation methodologies.
+The Aesthetics Paintings and Drawings Dataset (APDDv2) stands as the pioneering comprehensive painting dataset, encompassing 24 distinct artistic categories and 10 aesthetic attributes. Comprising 10,023 painting images, 85,191 Scoring labels, and 6,249 linguistic comments, APDDv2 addresses the scarcity of datasets in the realm of aesthetic evaluation of artistic images. Its primary aim is to furnish researchers and practitioners with high-quality painting data, thereby fostering the development and application of automatic aesthetic evaluation methodologies.
 
 ArtCLIP, tailored specifically for particular painting styles, is an artistic assessment network trained on the APDDv2 dataset. The ArtCLIP models excel in providing a comprehensive assessment of the total aesthetic score of artistic images, along with scoring various aesthetic attributes.
 
