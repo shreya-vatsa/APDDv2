@@ -19,3 +19,13 @@ Baidu Netdisk: [Click here to download](https://drive.google.com/file/d/1ap5dhuE
 
 Google Drive: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2VFmUNIRZrar2/view?usp=drive_link)
 
+## ArtCLIP
+
+Clone the repository:
+
+```sh
+git clone https://github.com/Dreemurr-T/BAID.git
+cd BAID/ '''
+
+Install the necessary dependencies using:
+
