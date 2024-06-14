@@ -40,15 +40,15 @@ The folder contains the following items:
 
 -   **./modle_weights/0.ArtCLIP_weight--e11-train2.4314-test4.0253_best.pth**: ArtCLIP model weight, which fine-tuned vanilla CLIP on categorized DPC2022 dataset.
 -   **./modle_weights/1.Score_reg_weight--e4-train0.4393-test0.6835_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting total aesthetic scores.
--   **./modle_weights/2.Theme and logic_reg_weight--e5-train0.3792-test0.5953_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting theme and logic scores.
--   **./modle_weights/3.Creativity_reg_weight--e5-train0.4212-test0.7122_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting creativity scores.
--   **./modle_weights/4.Layout and composition_reg_weight--e6-train0.2783-test0.6342_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting layout and composition scores.
--   **./modle_weights/5.Space and perspective_reg_weight--e7-train0.2168-test0.5998_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting space and perspective scores.
--   **./modle_weights/6.The sense of order_reg_weight--e5-train0.3708-test0.6206_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting sense of order scores.
--   **./modle_weights/7.Light and shadow_reg_weight--e7-train0.1937-test0.6518_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting light and shadow scores.
--   **./modle_weights/8.Color_reg_weight--e5-train0.2905-test0.5871_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting color scores.
--   **./modle_weights/9.Details and texture_reg_weight--e4-train0.4385-test0.7034_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting details and texture scores.
--   **./modle_weights/10.The overall_reg_weight--e3-train0.5131-test0.6343_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting the overall scores.
--   **./modle_weights/11.Mood_reg_weight--e7-train0.3108-test0.7097_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting mood scores.
+-   **./modle_weights/2.Theme and logic_reg_weight--e5-train0.3792-test0.5953_best.pth**: ArtCLIP for predicting theme and logic scores.
+-   **./modle_weights/3.Creativity_reg_weight--e5-train0.4212-test0.7122_best.pth**: ArtCLIP for predicting creativity scores.
+-   **./modle_weights/4.Layout and composition_reg_weight--e6-train0.2783-test0.6342_best.pth**: ArtCLIP for predicting layout and composition scores.
+-   **./modle_weights/5.Space and perspective_reg_weight--e7-train0.2168-test0.5998_best.pth**: ArtCLIP for predicting space and perspective scores.
+-   **./modle_weights/6.The sense of order_reg_weight--e5-train0.3708-test0.6206_best.pth**: ArtCLIP for predicting sense of order scores.
+-   **./modle_weights/7.Light and shadow_reg_weight--e7-train0.1937-test0.6518_best.pth**: ArtCLIP for predicting light and shadow scores.
+-   **./modle_weights/8.Color_reg_weight--e5-train0.2905-test0.5871_best.pth**: ArtCLIP for predicting color scores.
+-   **./modle_weights/9.Details and texture_reg_weight--e4-train0.4385-test0.7034_best.pth**: ArtCLIP for predicting details and texture scores.
+-   **./modle_weights/10.The overall_reg_weight--e3-train0.5131-test0.6343_best.pth**: ArtCLIP for predicting the overall scores.
+-   **./modle_weights/11.Mood_reg_weight--e7-train0.3108-test0.7097_best.pth**: ArtCLIP for predicting mood scores.
 
 
