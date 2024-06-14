@@ -15,7 +15,7 @@ ArtCLIP, tailored specifically for particular painting styles, is an artistic as
 
 We provide alternatives to obtain the dataset:
 
-Baidu Netdisk: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2V)   Access code: 9y91
+Baidu Netdisk: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2V), Access code: 9y91
 
 Google Drive: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2VFmUNIRZrar2/view?usp=drive_link)
 
