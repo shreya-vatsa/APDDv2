@@ -25,7 +25,8 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/Dreemurr-T/BAID.git
-cd BAID/ '''
+cd BAID/
+sh'''
 
 Install the necessary dependencies using:
 
