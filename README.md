@@ -52,6 +52,12 @@ For testing on ArtCLIP, use:
 python eval.py
 ```
 
+To obtain the total aesthetic score and aesthetic attribute scores predicted by the model, use:
+
+```
+python demo.py
+```
+
 ## License
 The dataset is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
