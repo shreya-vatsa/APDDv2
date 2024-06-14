@@ -42,7 +42,7 @@ The folder contains the following items:
 
 - **./modle_weights/1.Score_reg_weight--e4-train0.4393-test0.6835_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting total aesthetic scores.
 
-**......**
+     **......**
 
 - **./modle_weights/11.Mood_reg_weight--e7-train0.3108-test0.7097_best.pth**: ArtCLIP finetuned on the APDDv2 database for predicting mood scores.
 
