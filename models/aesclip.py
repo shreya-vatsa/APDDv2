@@ -70,7 +70,7 @@ class AesCLIP_reg(nn.Module):
         super(AesCLIP_reg, self).__init__()
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         clip_model, clip_size = self.select_clip(clip_name)
-        print('Loading AesCLIP weights:', clip_model.load_state_dict(torch.load(weight)))
+        #print('Loading weights:', clip_model.load_state_dict(torch.load(weight)))
         self.aesclip = clip_model.float()
         self.clip_size = clip_size['feature_size']
         """ self.mlp = nn.Sequential(
