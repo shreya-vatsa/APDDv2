@@ -26,10 +26,10 @@ Clone the repository:
 ```sh
 git clone https://github.com/Dreemurr-T/BAID.git
 cd BAID/
-
+'''
 
 Install the necessary dependencies using:
 ```sh
 pip install pandas
-pip install tqdm
+pip install tqdm'''
 
