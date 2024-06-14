@@ -14,9 +14,6 @@ ArtCLIP, tailored specifically for particular painting styles, is an artistic as
 - `filesource.csv`: This file records the source URLs for 1892 images in the APDD dataset. The remaining images are sourced from Wikiart (https://www.wikiart.org/) and student painting assignments.
 
 We provide alternatives to obtain the dataset:
-
-Baidu Netdisk: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2V)  
-Access code: 9y91
-
+Baidu Netdisk: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2V)   Access code: 9y91
 Google Drive: [Click here to download](https://drive.google.com/file/d/1ap5dhuEgpPC5PrJozAu2VFmUNIRZrar2/view?usp=drive_link)
 
