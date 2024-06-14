@@ -24,7 +24,7 @@ Google Drive: [Click here to download](https://drive.google.com/file/d/1ap5dhuEg
 Clone the repository:
 
 ```sh
-git clone https://github.com/Dreemurr-T/BAID.git
+git clone https://github.com/BestiVictory/APDDv2.git
 cd BAID/
 ```
 
