@@ -25,12 +25,20 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/BestiVictory/APDDv2.git
-cd BAID/
+cd APDDv2/
 ```
 
-Install the necessary dependencies using:
-```sh
-pip install pandas
-pip install tqdm
+Install dependencies (works with python3.9):
+
 ```
+pip3 install -r requirements.txt
+```
+
+The model checkpoints and pretrained data can be downloaded from 
+[gcloud directory link](https://drive.google.com/drive/folders/1AOVKmSqZCW09J_Ypr7KzSYfRxQre-w_m?usp=drive_link).
+The folder contains the following items:
+
+-   **./modle_weights/0.ArtCLIP_weight--e11-train2.4314-test4.0253_best.pth**: ArtCLIP model weight, which fine-tuned vanilla CLIP on categorized DPC2022 dataset.
+-   **./AesCLIP/checkpoints/AesCLIP_IAA_tuned/**: AesCLIP for IAA task, finetuned AesCLIP on AVA database for aesthetic distribution prediction.
+-   **./AesCLIP/data/**: Pretrained data for AesCLIP.
 
