@@ -31,5 +31,6 @@ cd BAID/
 Install the necessary dependencies using:
 ```sh
 pip install pandas
-pip install tqdm```
+pip install tqdm
+```
 
