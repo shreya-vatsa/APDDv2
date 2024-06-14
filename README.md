@@ -34,7 +34,7 @@ Install dependencies (works with python3.9):
 pip3 install -r requirements.txt
 ```
 
-The model checkpoints and pretrained data can be downloaded from 
+The model checkpoints can be downloaded from 
 [gcloud directory link](https://drive.google.com/drive/folders/1AOVKmSqZCW09J_Ypr7KzSYfRxQre-w_m?usp=drive_link).
 The folder contains the following items:
 
@@ -49,6 +49,7 @@ The folder contains the following items:
 -   **./modle_weights/8.Color_reg_weight--e5-train0.2905-test0.5871_best.pth**: ArtCLIP for predicting color scores.
 -   **./modle_weights/9.Details and texture_reg_weight--e4-train0.4385-test0.7034_best.pth**: ArtCLIP for predicting details and texture scores.
 -   **./modle_weights/10.The overall_reg_weight--e3-train0.5131-test0.6343_best.pth**: ArtCLIP for predicting the overall scores.
+-    **......**
 -   **./modle_weights/11.Mood_reg_weight--e7-train0.3108-test0.7097_best.pth**: ArtCLIP for predicting mood scores.
 
 
